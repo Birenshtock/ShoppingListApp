@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(217, 222, 226);
+  font-family: 'Comfortaa', cursive;
+}
+
+hr {
+  margin: 0;
+}
+
+.main-layout {
+  max-width: 1400px;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  padding-left: 32px;
+  padding-right: 32px;
+}
